@@ -56,6 +56,8 @@ En los días 2 y 3, la hora sale de la fecha de modificación de cada archivo, c
 
 ## Registros del informe
 
+Esta correspondencia se preparó con la copia del informe y los análisis disponibles al publicar los datos. La versión final del informe puede usar una selección distinta; los identificadores y archivos originales permiten comprobarla.
+
 Los identificadores siguientes se buscan en la columna `id` de [medidas.csv](medidas.csv). Un registro puede contener varios semibarridos; la cantidad de archivos no es la de semibarridos aceptados por el análisis.
 
 | Parte del informe | Registros |

@@ -6,7 +6,7 @@ Material suplementario del informe del Grupo 10 de Laboratorio 5, Facultad de Ci
 
 ## Contenido
 
-1. **[Uso de lock-in+PID v0.2.2](docs/uso_lock_in.md):** conexiones, rampa, señal de error, PID, elección del cruce, procedimiento de lockeo y guardado de datos. Reemplaza el apéndice operativo del informe.
+1. **[Uso de lock-in+PID v0.2.2](docs/uso_lock_in.md):** conexiones, rampa, señal de error, PID, elección del cruce, procedimiento de lockeo y guardado de datos. Reúne las instrucciones operativas en un documento independiente.
 2. **[Datos experimentales](data/README.md):** 61 registros CSV de las tres jornadas, 3 configuraciones JSON de la aplicación y un índice que identifica canales, unidades, condiciones y limitaciones de cada medición. Se conservan también los intentos fallidos y los duplicados, identificados en el índice.
 3. **Modelo de la línea D1 del rubidio:** pendiente de incorporación. Esta primera versión publica la guía y los datos; todavía no incluye el código del modelo ni los notebooks de análisis.
 

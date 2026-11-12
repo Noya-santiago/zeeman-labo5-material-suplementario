@@ -1,6 +1,6 @@
 # Uso de lock-in+PID v0.2.2 para estabilizar el láser
 
-Guía del montaje DAVS del Grupo 10, Laboratorio 5, FCEN-UBA (2026). Este texto reemplaza el apéndice operativo del informe *Estabilización de un láser con el efecto Zeeman en rubidio*.
+Guía del montaje DAVS del Grupo 10, Laboratorio 5, FCEN-UBA (2026). Esta guía reúne el procedimiento documentado para el trabajo *Estabilización de un láser con el efecto Zeeman en rubidio*.
 
 ## Conexiones y recorrido de la señal
 
