@@ -171,7 +171,7 @@ Que la rampa se congele no basta para confirmar el lock. Comprobar las tres señ
 
 - **PID A out:** corrige continuamente y no queda clavado en el límite de saturación.
 
-El signo de `kp` y `ki` depende de la pendiente del cruce y del sentido en que responde el láser. En el experimento elegimos los valores por prueba, con `kd = 0`. Los valores guardados se documentan en [el día 3](../data/clean/dia3/README.md); no constituyen un ajuste universal del controlador.
+El signo de `kp` y `ki` depende de la pendiente del cruce y del sentido en que responde el láser. En el experimento elegimos los valores por prueba, con `kd = 0`. Los valores guardados se documentan en [el día 3](../data/dia3/README.md); no constituyen un ajuste universal del controlador.
 
 | Síntoma | Qué revisar |
 |---|---|
