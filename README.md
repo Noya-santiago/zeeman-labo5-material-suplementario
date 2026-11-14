@@ -8,6 +8,7 @@ Tomás Carnero, Abraham Machicado, Santiago Noya y Lucas Velasco.
 - [`data/`](data/README.md): los registros de la Red Pitaya de las tres clases (58 CSV y 3 configuraciones JSON), con un índice en `data/medidas.csv`.
 - [`docs/uso_lock_in.md`](docs/uso_lock_in.md): cómo usamos la aplicación lock-in+PID v0.2.2 para lockear el láser.
 - [`analisis/campo_imanes.ipynb`](analisis/campo_imanes.ipynb): cómo pasamos de la separación entre los pozos de los dos canales al campo de los imanes, paso a paso.
+- [`analisis/espectro_steck.ipynb`](analisis/espectro_steck.ipynb): cómo armamos el espectro D1 con los datos de Steck y el ajuste de la fracción de ⁸⁷Rb. Usa [`analisis/barridos.py`](analisis/barridos.py), que procesa los barridos como en el informe.
 
 ## Fuentes
 
