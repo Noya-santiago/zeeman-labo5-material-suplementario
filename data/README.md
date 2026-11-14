@@ -55,7 +55,6 @@ Calibramos ese corrimiento con un JSON que tiene la hora de guardado en el nombr
 | Barridos de la DAVS | `d2-32`, `d2-33`, `d3-01`, `d3-03`, `d3-17` y `d3-20` |
 | Lockeos | `d3-08` a `d3-16`, `d3-18`, `d3-19` y `d3-21` a `d3-24` |
 | Estabilidad del lockeo | los lockeos salvo `d3-10` (no registra el error) y `d3-24` (oscilación de 14,6 kHz) |
-| Temperatura de la celda | `d1-01` |
 
 ## Leer un registro en Python
 
